@@ -1,0 +1,24 @@
+{
+  "name": "node.hw1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSerSmart/Node.HW1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSerSmart/Node.HW1/issues"
+  },
+  "homepage": "https://github.com/DSerSmart/Node.HW1#readme",
+  "description": ""
+}
